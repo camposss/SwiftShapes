@@ -14,7 +14,7 @@ class GameViewController: UIViewController {
     scene.scaleMode = .aspectFill
     skView.presentScene(scene)
   }
-  
+//  jaklsdjflasjdfklajsdfkla
   override var prefersStatusBarHidden: Bool {
     return true
   }
